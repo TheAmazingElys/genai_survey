@@ -20,3 +20,8 @@ https://github.com/Nighthawk42/mOrpheus
 
 ### Online From text or image prompt
 - https://www.meshy.ai/
+
+## Pixel art generation
+
+### PixelLab
+A tool to generate pixel art assets in aseprite or pixelorama: https://www.pixellab.ai/

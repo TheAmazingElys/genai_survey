@@ -10,6 +10,11 @@
 ### With emotion and disfluency
 - https://github.com/canopyai/Orpheus-TTS
 
+## Vocal Assistant
+### mOrpheus
+An example of vocal assistant with ASR using Whisper, answer generation using Gemma and TTS using Orpheus
+https://github.com/Nighthawk42/mOrpheus
+
 
 ## Mesh Generation
 

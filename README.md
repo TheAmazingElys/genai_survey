@@ -5,6 +5,10 @@
 ### C++ and Python Local LLM
 - See an example of python LLM in the "llama_cpp" folder
 
+## TTS
+
+### With emotion and disfluency
+- https://github.com/canopyai/Orpheus-TTS
 
 
 ## Mesh Generation
